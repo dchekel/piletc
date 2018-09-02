@@ -1,0 +1,13 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <ignoreFiles list="*$py.class;*.hprof;*.pyc;*.pyo;*.rbc;*.yarb;*~;.DS_Store;.git;.hg;.svn;CVS;__pycache__;_svn;vssver.scc;vssver2.scc;" />
+    <extensionMap>
+      <mapping pattern="pyqt4" type="Python" />
+      <mapping pattern="pyqt3" type="Python" />
+      <mapping pattern="pyqt2" type="Python" />
+      <mapping pattern="pyqt1" type="Python" />
+      <mapping ext="woff2" type="SVG" />
+      <mapping ext="db" type="YAML" />
+    </extensionMap>
+  </component>
+</application>
